@@ -1,0 +1,27 @@
+version: '3'
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    ports:
+      - '27017:27017'
+    volumes:
+      - ./mongo-data:/data/mongo:rw
+    restart: on-failure
+    privileged: true
+    command: mongod --dbpath=/data/mongo
+
+  simserver:
+    image: simserver
+    container_name: simserver
+    ports:
+      - "10000:10000"
+    restart: on-failure
+
+  chatbot:
+    image: chatbot
+    container_name: chatbot
+    restart: on-failure
+    depends_on:
+      - mongo
+      - simserver

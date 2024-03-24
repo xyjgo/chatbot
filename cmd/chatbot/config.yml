@@ -1,0 +1,10 @@
+tg_api:
+  url: http://localhost:10000
+  token: bot1:key1234567890
+bot_info:
+  interval: 5
+  timeout: 10
+  recv_chan_cap: 1000
+  send_chan_cap: 1000
+mongo:
+  uri: mongodb://chuangme.com:27017/chatbot

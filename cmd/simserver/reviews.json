@@ -1,0 +1,11 @@
+[{"reviewid":"","sender":{"uid":1,"nickname":"tom","avatarurl":"t.me/1.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"what is service hotline?"},
+  {"reviewid":"","sender":{"uid":2,"nickname":"jack","avatarurl":"t.me/2.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"who is there"},
+  {"reviewid":"","sender":{"uid":3,"nickname":"rose","avatarurl":"t.me/3.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":1,"imgurl":"t.me/qrcode-1111.jpg"},
+  {"reviewid":"","sender":{"uid":4,"nickname":"mark","avatarurl":"t.me/4.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"today is monday"},
+  {"reviewid":"","sender":{"uid":5,"nickname":"hero","avatarurl":"t.me/5.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"a hahaha"},
+  {"reviewid":"","sender":{"uid":6,"nickname":"bike","avatarurl":"t.me/6.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"!!!!!!!!!!!!"},
+  {"reviewid":"","sender":{"uid":7,"nickname":"plane","avatarurl":"t.me/7.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"the product is very good"},
+  {"reviewid":"","sender":{"uid":8,"nickname":"water","avatarurl":"t.me/8.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"how about you"},
+  {"reviewid":"","sender":{"uid":9,"nickname":"bird","avatarurl":"t.me/9.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"may buy one more"},
+  {"reviewid":"","sender":{"uid":10,"nickname":"cloud","avatarurl":"t.me/10.png"},"chat":{"cid":1,"chatname":"chat1","imgurl":"t.me/chat1.jpg"},"contenttype":0,"text":"white color is very nice"}
+]
