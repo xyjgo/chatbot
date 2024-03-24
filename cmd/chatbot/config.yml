@@ -7,4 +7,4 @@ bot_info:
   recv_chan_cap: 1000
   send_chan_cap: 1000
 mongo:
-  uri: mongodb://chuangme.com:27017/chatbot
+  uri: mongodb://localhost:27017/chatbot
